@@ -3,4 +3,5 @@
 env.component = "dispatch"
 env.app_lang = "golang"
 
-ci()
+// ci()
+ci_scripted()
